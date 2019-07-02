@@ -4,8 +4,6 @@
     <list default="true" id="1ba7da07-cee7-4dc4-98d4-89a752e8abcf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ecrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Encrypt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EcryptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EcryptTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/EcryptTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#120#121#0" expanded="true" />
@@ -49,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="170">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -74,8 +72,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Ecrypt.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/EcryptTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -105,24 +103,6 @@
             <path>
               <item name="ecrypt-pass" type="b2602c69:ProjectViewProjectNode" />
               <item name="ecrypt-pass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecrypt-pass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecrypt-pass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecrypt-pass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecrypt-pass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecrypt-pass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ecrypt-pass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,9 +177,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EcryptTest - 2019.07.02 at 17h 34m 36s.xml">
-      <configuration name="EcryptTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EcryptTest - 2019.07.02 at 17h 34m 55s.xml">
       <configuration name="EcryptTest" configurationId="JUnit" />
     </history-entry>
@@ -225,6 +202,9 @@
       <configuration name="EcryptTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="EcryptTest - 2019.07.02 at 17h 38m 17s.xml">
+      <configuration name="EcryptTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EcryptTest - 2019.07.02 at 18h 11m 02s.xml">
       <configuration name="EcryptTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -271,13 +251,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Encrypt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -290,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/EcryptTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#120#121#0" expanded="true" />
@@ -299,6 +272,16 @@
             <element signature="e#249#250#0" expanded="true" />
             <element signature="e#333#334#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
