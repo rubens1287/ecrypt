@@ -1,7 +1,7 @@
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
-public class Ecrypt {
+public class Encrypt {
 
 
     public static String encryptXOR(String message, String key){
